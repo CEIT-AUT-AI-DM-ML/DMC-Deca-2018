@@ -13,6 +13,6 @@ In this challenge, you are asked to predict the likelihood that they will click 
 
 
 # It is held by Sharif University of Technology ,Winter 2018
-  find More here::[Sharif_Deca](http://deca.pushe.co/)
+  Find More here:[Sharif_Deca](http://deca.pushe.co/)
 
 
