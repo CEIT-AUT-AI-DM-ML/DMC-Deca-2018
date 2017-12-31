@@ -12,7 +12,7 @@ focusing on Identifying interested people can be used without disturbing those w
 In this challenge, you are asked to predict the likelihood that they will click on new notifications by helping users to click the history or not on different notifications.
 
 
-# it is held by Sharif University of Technology,Winter 2018
+# It is held by Sharif University of Technology ,Winter 2018
   find More here::[Sharif_Deca](http://deca.pushe.co/)
 
 
