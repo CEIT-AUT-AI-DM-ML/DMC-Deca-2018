@@ -8,3 +8,29 @@ maximum likelihood  ==>
 
 
 
+
+
+KNN ==> بیا نگاه کن از بین داده های ترینت، 
+k تا نزدیکترین همسایه شو  در نظر بگیر
+بر اساس نزدیکترین ها
+نزدیکی رو چجوری تعریف کنیم؟
+ اشکال==> non parametric ==> curse of dimensional
+
+
+
+
+
+train ==> train+ validation
+
+
+logistic regression ==> it is a classification!
+
+methods ==> SVM  ==>بهینه سازی تابع خطا
+
+
+ 
+
+
+
+
+
